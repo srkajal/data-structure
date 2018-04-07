@@ -1,4 +1,7 @@
-package org.mallick.datastructure.hashtable;
+package org.mallick.datastructure.hashtable.main;
+
+import org.mallick.datastructure.hashtable.Person;
+import org.mallick.datastructure.hashtable.PersonHashTable;
 
 public class PersonHashTableRunner {
 
